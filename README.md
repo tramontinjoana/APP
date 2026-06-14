@@ -142,11 +142,6 @@ Cursos
 
 
 </div>
-
-
-</body>
-
-</html>
 <!DOCTYPE html>
 
 <html>
@@ -367,3 +362,7 @@ color:#2563eb;
 color:red;
 
 }
+
+</body>
+
+</html>
